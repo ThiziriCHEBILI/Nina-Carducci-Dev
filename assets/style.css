@@ -244,6 +244,11 @@ input[type="submit"] {
 	background-color: #BEB45A;
 	padding: .5em 1em
 }
+.carousel-indicators [data-bs-target] {
+    background-color: #efc39c;
+	  border: 1px solid #fff;
+	  height: 8px;
+}
 
 @media all and (max-width: 1180px) {
 	.picture {
